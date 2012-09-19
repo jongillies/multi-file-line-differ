@@ -76,4 +76,4 @@ You can also specify -r to reverse the rows and columns:
     user8                                   X                   X
     user9               X                                       X
 
-Anyway, this can come in handy at times.  Ejoy, my friends.
+Anyway, this can come in handy at times.  Enjoy, my friends.
