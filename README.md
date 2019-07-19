@@ -6,12 +6,12 @@ Given a set of files, tell me which of the same lines are in each file.
 
  Woah!  This is nifty for sure.
 
-"differ.sh" will "diff" n files with m lines and produce a tab deliminted report
-of what lines are in what files.  You can event add a -r to revers the match.
+"differ.sh" will "diff" n files with m lines and produce a tab delimited report
+of what lines are in what files.  You can even add a -r to revers the match.
 
-This is great for all sorts of things.  For exampe, I use it to find out what users
-are in what /etc/passwd files on some systems. (Of course I must have all of the
-passwd files in some folder first).  The -f parameter specifies a folder to look
+This is great for all sorts of things.  For example, I use it to find out what users
+are in what `/etc/passwd` files on some systems. (Of course I must have all of the
+`passwd` files in some folder first).  The -f parameter specifies a folder to look
 for the files, where by default the "files" become the rows of the report and the
 "lines" become the columns.
 
